@@ -7,7 +7,7 @@ The goal is to generate a similar lyrics by artist using transformer's decoder m
 Here is the demo of the lyrics generated.
 
 <p align="center">
-  <img src="assets/output-res.gif" width="600">
+  <img src="assets/output-res.gif" width="700">
 </p>
 
 ## Dataset
