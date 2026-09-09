@@ -21,7 +21,7 @@ The dataset and the tokens are placed inside the data folder. It is the collecti
 Output after 100 epoch. 
 
  <p align="center">
-  <img src="assets/last.png" width="250">
+  <img src="assets/last.png" width="350">
 </p>
 
 ## Tokens:
