@@ -36,7 +36,7 @@ Since it is a word level model. Tokens are the words used in the lyrics.
 
 ## Model architecture
  <p align="center">
-  <img src="assets/model-archi.png" width="250">
+  <img src="assets/model-archi.png" width="350">
 </p>
 
 ## Appendix
@@ -44,6 +44,6 @@ Since it is a word level model. Tokens are the words used in the lyrics.
 Output after few epoch. 
 
  <p align="center">
-  <img src="assets/after-few-epoch.png" width="250">
+  <img src="assets/after-few-epoch.png" width="300">
 </p>
 
