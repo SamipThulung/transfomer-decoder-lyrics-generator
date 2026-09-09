@@ -1,4 +1,4 @@
-# transfomer-decoder-lyrics-generator
+# Transfomer-decoder-lyrics-generator
 This is a small transformer model to generate lyrics. It is a word-level transformer-decoder based architecture.
 
 The goal is to generate a similar lyrics by artist using transformer's decoder model.
@@ -7,7 +7,7 @@ The goal is to generate a similar lyrics by artist using transformer's decoder m
 Here is the demo of the lyrics generated.
 
 <p align="center">
-  <img src="assets/output-res.gif" width="700">
+  <img src="assets/output-res.gif" width="800">
 </p>
 
 ## Dataset
